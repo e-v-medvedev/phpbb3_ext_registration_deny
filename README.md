@@ -23,4 +23,4 @@ git clone https://github.com/e-v-medvedev/phpbb3_ext_registration_deny.git ext/s
 
 ## Лицензия
 phpBB Registration Deny расширение предоставляется на условиях GNU General Public
-License 2 (GPL). Копия лицензии включена в репозитарий (license.txt).
+License 2 (GPL).
