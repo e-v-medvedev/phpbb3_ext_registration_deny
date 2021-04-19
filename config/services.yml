@@ -1,0 +1,8 @@
+services:
+    smartceo.registrationdeny.listener:
+        class: smartceo\registrationdeny\event\listener
+        arguments:
+            - '%core.php_ext%'
+            - '@request'
+        tags:
+            - { name: event.listener }
