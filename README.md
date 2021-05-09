@@ -10,7 +10,7 @@
 ### 1. Клонирование
 Клонируйте репозиторий или загрузите и распакуйте архив к каталог ext/smartceo/registerdeny из корневой папки сайта.
 
-Для клонирования необходимо набрать команду
+Для клонирования необходимо набрать команду в корне сайта
 ```
 git clone https://github.com/e-v-medvedev/phpbb3_ext_registration_deny.git ext/smartceo/registerdeny
 ```
